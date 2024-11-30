@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ZiadTamer52/ZiadTamer52/output/snake.svg" alt="Snake animation" />
-
-###
