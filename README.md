@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="24227797" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/arcane-tree-gif-24227797">Arcane Tree GIF</a>from <a href="https://tenor.com/search/arcane+tree-gifs">Arcane Tree GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="200" src="https://i.imgur.com/rqFz80V.gif"  />
+</div>
 
 ###
 
