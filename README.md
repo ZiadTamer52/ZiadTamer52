@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ziad-einstein-5b8242311/" target="_blank">
+  <a href="https://www.linkedin.com/in/ziad-tamer-5b8242311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@ziad_einstein8218" target="_blank">
@@ -69,4 +69,4 @@
 ---
 
 ### 🚀 Let's Connect  
-Got a cool cybersecurity idea? Want to collaborate? Reach out on *[LinkedIn](https://www.linkedin.com/in/ziad-einstein-5b8242311/), [Twitter](https://x.com/ziad_einst73845)*!
+Got a cool cybersecurity idea? Want to collaborate? Reach out on *[LinkedIn](https://www.linkedin.com/in/ziad-tamer-5b8242311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Twitter](https://x.com/ziad_einst73845)*!
