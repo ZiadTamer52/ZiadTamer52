@@ -59,8 +59,8 @@
 
 <div align="left">
 
-🔹 [Azkar](https://ziadtamer52.github.io/Azkar/) – A website for daily supplications.  
-🔹 [ZIAD](https://ziadtamer52.github.io/Portfolio1/) – A Portfolio website to display my work. <br>
+🔹 [Azkar](https://azkar-self.vercel.app/) – A website for daily supplications.  
+🔹 [ZIAD](https://ziad-sable.vercel.app/) – A Portfolio website to display my work. <br>
 🔹 [Keylogger](https://github.com/ZiadTamer52/Keylogger) – A Keylogger tool for security measurement.<br>
 🔹 More cybersecurity tools coming soon...
 
