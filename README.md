@@ -4,6 +4,7 @@
   <img height="200" src="https://i.imgur.com/TAHoMni.jpeg"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hey%2C+I%E2%80%99m+Shadow!;+Coding+by+day%2C+hacking+by+night.;+Always+learning%2C+always+breaking.;+Check+out+my+projects.)](https://git.io/typing-svg)
 
 
 <div align="center">
