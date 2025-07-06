@@ -1,11 +1,13 @@
 # <div align="center"> 🛡 Ziad "Shadow" | Cybersecurity Enthusiast </div>  
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/TAHoMni.jpeg"  />
-</div>
 
+
+
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hey%2C+I%E2%80%99m+Shadow!;+Coding+by+day%2C+hacking+by+night.;+Always+learning%2C+always+breaking.;+Check+out+my+projects.)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ziad-tamer-5b8242311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
